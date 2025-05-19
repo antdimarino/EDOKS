@@ -10,7 +10,12 @@
   <a href="https://github.com/antdimarino/EDOKS"><img src="https://img.shields.io/badge/Contributors-2-blue" alt="Contributors"/></a>
 </div>
 </div>
-<h3 align="center">EDOKS</h3>
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/BananaCloud-CC2022-Parthenope/BananaCloud">
+    <img src="images/edoks.png" alt="Logo" style="width: 20%; height: 20%">
+  </a>
   <p align="center">
     Official implementation of the paper <i>EDOKS: A Robust Similarity Index for Perceptual Image Quality Assessment</i>
 </div>

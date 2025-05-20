@@ -4,6 +4,7 @@
   <a href="https://wfxr.mit-license.org/2017"><img src="https://img.shields.io/badge/License-MIT-brightgreen.svg"/></a>
   <a href="https://www.python.org/downloads/release/python-380/"><img src="https://img.shields.io/badge/Python-3.8-007d9c?logo=python"/></a>
   <a href="https://opencv.org/"><img src="https://img.shields.io/badge/OpenCV--python-4.9-5C3EE8?style=flat&logo=OpenCV&logoColor=FFFFFF"/></a>
+  <a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-1.21.6-4d77cf?&logo=numpy&logoColor=4d77cf"></a>
   <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/Pytorch-1.12.0-orange?logo=pytorch&logoColor=red"></a>
   <a href="https://https://cmake.org/"><img src="https://img.shields.io/badge/CMake-3.12-064F8C?logo=cmake&logoColor=white"></a>
   <a href="https://gcc.gnu.org/"><img src="https://img.shields.io/badge/C++-11-blue.svg?style=flat&logo=c%2B%2B"/></a>

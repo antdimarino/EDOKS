@@ -18,7 +18,7 @@
     <img src="images/edoks.png" alt="Logo" style="width: 20%; height: 20%">
   </a>
   <p align="center">
-    Official implementation of the paper <i>EDOKS: A Robust Similarity Index for Perceptual Image Quality Assessment</i>
+    Official implementation of the paper <i>A new Image Similarity Metric for a Perceptual and Transparent Geometric and Chromatic Assessment</i>
 </div>
 
 ## About The Project

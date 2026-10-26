@@ -293,7 +293,7 @@ If you use EDOKS in your research, please cite:
 	number = {1},
 	urldate = {2026-10-20},
 	journal = {Discover Artificial Intelligence},
-	author = {Marino, Antonio Di and Bevilacqua, Vincenzo and Nardo, Emanuel Di and Ciaramella, Angelo and Falco, Ivanoe De and Sannino, Giovanna},
+	author = {Di Marino, Antonio and Bevilacqua, Vincenzo and Di Nardo, Emanuel and Ciaramella, Angelo and De Falco, Ivanoe and Sannino, Giovanna},
 	month = oct,
 	year = {2026},
 	pages = {1536},

@@ -309,6 +309,15 @@ If you use EDOKS in your research, please cite:
 - **Ivanoe De Falco** – ICAR-CNR
 - **Giovanna Sannino** – ICAR-CNR
 
+## Acknowledgements
+
+The Earth Mover's Distance solver in `edoks/emd_c/` (`emd.c`, `emd.h`) is the original C implementation by **Yossi Rubner** (Stanford University), accompanying:
+
+> Y. Rubner, C. Tomasi, L. J. Guibas. *The Earth Mover's Distance as a Metric for Image Retrieval.* International Journal of Computer Vision, 40(2):99–121, 2000. [doi:10.1023/A:1026543900054](https://doi.org/10.1023/A:1026543900054)
+
+The texture signature design of EDOKS also follows the Gabor-signature approach of the same work. We thank the authors for making their code available.
+
 ## License
 
-This project is released under the [MIT License](LICENSE).
+The EDOKS code is released under the [MIT License](LICENSE).
+The files in `edoks/emd_c/` derived from Rubner's EMD implementation remain subject to their original copyright notice, which is kept in the source files.
